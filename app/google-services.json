@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "143678587815",
+    "project_id": "ecolens-85c94",
+    "storage_bucket": "ecolens-85c94.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:143678587815:android:e0d8d69d4f99e2f3e36c82",
+        "android_client_info": {
+          "package_name": "com.example.ecolens"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "143678587815-2sqc5mt89ihkosnt87gjl4d1kipa9an5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ecolens",
+            "certificate_hash": "4f0195bd4595d4023b96fd8955d2ae1ca63c53a5"
+          }
+        },
+        {
+          "client_id": "143678587815-coqpgjtpohrdplp521l9h5skd6ah4bjn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC3rTKF5dI5Me_jD5OUaT1-9PBU08CqW1Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "143678587815-coqpgjtpohrdplp521l9h5skd6ah4bjn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

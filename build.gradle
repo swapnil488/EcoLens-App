@@ -3,3 +3,7 @@ plugins {
 alias(libs.plugins.android.application) apply false
     alias(libs.plugins.google.gms.google.services) apply false
 }
+ext {
+    compileSdkVersion = 36
+    compileSdkVersion1 = compileSdkVersion
+}

@@ -5,7 +5,7 @@ plugins {
 
 android {
     namespace 'com.example.ecolens'
-    compileSdk 35
+    compileSdk 36
 
     defaultConfig {
         applicationId "com.example.ecolens"
@@ -30,6 +30,7 @@ android {
     aaptOptions {
         noCompress "tflite"
     }
+    compileSdkMinor 1
 }
 
 dependencies {
